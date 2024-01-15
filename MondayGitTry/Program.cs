@@ -13,6 +13,7 @@ namespace MondayGitTry
             string text = Welcome("...");
             Console.WriteLine(text);
             Console.WriteLine("Hello World!");
+            //ez itt a reklam helye
             Console.ReadLine(); 
         }
 
