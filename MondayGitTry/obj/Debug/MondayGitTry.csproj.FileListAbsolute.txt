@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\ruanderC#Tanfolyam\git_try\.vs\MondayGitTry\bin\Debug\MondayGitTry.exe.config
+C:\Users\User\Desktop\ruanderC#Tanfolyam\git_try\.vs\MondayGitTry\bin\Debug\MondayGitTry.exe
+C:\Users\User\Desktop\ruanderC#Tanfolyam\git_try\.vs\MondayGitTry\bin\Debug\MondayGitTry.pdb
+C:\Users\User\Desktop\ruanderC#Tanfolyam\git_try\.vs\MondayGitTry\obj\Debug\MondayGitTry.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ruanderC#Tanfolyam\git_try\.vs\MondayGitTry\obj\Debug\MondayGitTry.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ruanderC#Tanfolyam\git_try\.vs\MondayGitTry\obj\Debug\MondayGitTry.exe
+C:\Users\User\Desktop\ruanderC#Tanfolyam\git_try\.vs\MondayGitTry\obj\Debug\MondayGitTry.pdb
