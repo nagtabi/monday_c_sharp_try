@@ -1,0 +1,7 @@
+C:\Users\dhfea\source\repos\gittutorial\MondayGitTry\bin\Debug\MondayGitTry.exe.config
+C:\Users\dhfea\source\repos\gittutorial\MondayGitTry\bin\Debug\MondayGitTry.exe
+C:\Users\dhfea\source\repos\gittutorial\MondayGitTry\bin\Debug\MondayGitTry.pdb
+C:\Users\dhfea\source\repos\gittutorial\MondayGitTry\obj\Debug\MondayGitTry.csproj.AssemblyReference.cache
+C:\Users\dhfea\source\repos\gittutorial\MondayGitTry\obj\Debug\MondayGitTry.csproj.CoreCompileInputs.cache
+C:\Users\dhfea\source\repos\gittutorial\MondayGitTry\obj\Debug\MondayGitTry.exe
+C:\Users\dhfea\source\repos\gittutorial\MondayGitTry\obj\Debug\MondayGitTry.pdb
