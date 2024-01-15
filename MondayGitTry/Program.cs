@@ -12,6 +12,7 @@ namespace MondayGitTry
         {
             string text = Welcome("...");
             Console.WriteLine(text);
+            Console.WriteLine("Hello World!");
             Console.ReadLine(); 
         }
 
