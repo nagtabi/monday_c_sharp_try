@@ -1,0 +1,7 @@
+C:\Data\Programing\Git\javamonday\try_push\MondayGitTry\bin\Debug\MondayGitTry.exe.config
+C:\Data\Programing\Git\javamonday\try_push\MondayGitTry\bin\Debug\MondayGitTry.exe
+C:\Data\Programing\Git\javamonday\try_push\MondayGitTry\bin\Debug\MondayGitTry.pdb
+C:\Data\Programing\Git\javamonday\try_push\MondayGitTry\obj\Debug\MondayGitTry.csproj.AssemblyReference.cache
+C:\Data\Programing\Git\javamonday\try_push\MondayGitTry\obj\Debug\MondayGitTry.csproj.CoreCompileInputs.cache
+C:\Data\Programing\Git\javamonday\try_push\MondayGitTry\obj\Debug\MondayGitTry.exe
+C:\Data\Programing\Git\javamonday\try_push\MondayGitTry\obj\Debug\MondayGitTry.pdb

@@ -10,17 +10,28 @@ namespace MondayGitTry
     {
         static void Main(string[] args)
         {
-            string text = Welcome("...");
+            string text = Welcome("Albert");
             Console.WriteLine(text);
             Console.ReadLine(); 
         }
 
         public static String Welcome(string name)
         {
-            return "";
+            DateTime dateTime = DateTime.Now;
+            int hour =  dateTime.Hour;
+            string resume = "Jó szerencsét !";
+            if(hour>=4 && hour<11)
+            {
+                resume = "Jó reggelt !";
+            }
+            if(hour>=11 && hour <19)
+            {
+                resume = "Jó napot !";
+            }
             //reggel 4-11 Jo reggelt {name}
             //11 - 18 Jo napot {name}
             // Jo szerencset {name}
+            return resume;
         }
     }
 }
