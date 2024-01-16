@@ -26,7 +26,7 @@ namespace MondayGitTry
             }
             if(hour>=11 && hour <19)
             {
-                resume = "Jó napot !";
+                resume = "Jó napot ! {0} !" , name;
             }
             //reggel 4-11 Jo reggelt {name}
             //11 - 18 Jo napot {name}
