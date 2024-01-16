@@ -19,10 +19,10 @@ namespace MondayGitTry
         {
             DateTime dateTime = DateTime.Now;
             int hour =  dateTime.Hour;
-            string resume = "Jó szerencsét !";
+            string resume = "Jó szerencsét ! {0} !" , name;
             if(hour>=4 && hour<11)
             {
-                resume = "Jó reggelt !";
+                resume = "Jó reggelt ! {0} !" , name;
             }
             if(hour>=11 && hour <19)
             {
